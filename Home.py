@@ -13,6 +13,6 @@ with cols[0]:
 with cols[1]:
     st.page_link("pages/3_Biografy.py", label="Biografy", icon="🧑‍🤝‍🧑")
 with cols[2]:
-    st.page_link("pages/4_Presentatios.py", label="Presentatios", icon="📂")
+    st.page_link("pages/4_Presentations.py", label="Presentations", icon="📂")
 
 st.info("Use o menu lateral para navegar também.")
