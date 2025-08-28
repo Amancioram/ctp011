@@ -1,8 +1,8 @@
 import streamlit as st
 from pathlib import Path
 
-st.set_page_config(page_title="Presentatios | CTP011", page_icon="📂", layout="wide")
-st.title("Presentatios")
+st.set_page_config(page_title="Presentations | CTP011", page_icon="📂", layout="wide")
+st.title("Presentations")
 
 base = Path(__file__).resolve().parent.parent
 pres_dir = base / "Presentation_Folder"
